@@ -129,5 +129,9 @@ dmypy.json
 .pyre/
 
 
+# Adding config.py file.
+fred_keys.py
+
 # config
 config.py
+
