@@ -52,11 +52,13 @@ To see if the Federal Interest Rate had an impact on the economies of other coun
 ![int_vs_fin_gdp_line](https://user-images.githubusercontent.com/117890937/217742826-4af2e044-d5c3-47ea-8917-3b4f6b479ac9.svg)
 ![int_vs_sudan_gdp_line](https://user-images.githubusercontent.com/117890937/217742851-cf24cb8b-1be2-4de8-a16a-84263256bc1f.svg)
 
-Using the data pulled from the FRED API, we were able to assemble a DataFrame and create graphs that put the Federal Interest Rate against the GDPs of each country. 
+Using the data pulled from the FRED API, we were able to assemble a DataFrame and create graphs that put the Federal Interest Rate against the GDPs of each country. In order to more clearly see the GDP trajectories, the Fed Interest Rate was multiplied by 1,000,000, 20,000, and 10,000 for China, Finland, and Sudan, respectively. 
 
+![int_vs_china_gdp_plot](https://user-images.githubusercontent.com/117890937/217743578-831d7dff-d85a-42fe-af73-b72e88f4200f.svg)
+![int_vs_fin_gdp_plot](https://user-images.githubusercontent.com/117890937/217743602-8896b55a-86bb-4b21-8747-8d0d2d77d241.svg)
+![int_vs_sudan_gdp_plot](https://user-images.githubusercontent.com/117890937/217743618-a8392ebf-17d7-4757-b29c-4b0f866b4881.svg)
 
-
-After doing this, and plotting a linear regression, we found only moderate or weak negative correlations between the two. This generally proves a null hypothesis: the Federal Interest Rate does not have a strong impact on the economies of other countries.
+After plotting a linear regression, we found only moderate or weak negative correlations between the two. This generally proves a null hypothesis: the Federal Interest Rate does not have a strong impact on the economies of other countries.
  
  # Interest Rate vs Other Economic Factors
  
