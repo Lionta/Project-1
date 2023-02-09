@@ -23,4 +23,18 @@ In contrast, the average interest rates from 1962 to 1981 was 6.59%. While the a
 
 To see how closely the two variables relate to one another we performed a linear regression. The correlation coefficient r is 0.5. This supports the conclusion that there is a weak to moderate linear relationship between GDP and interest rates. Higher interest rates can slow down the economy.
 
-DONE!!!!!
+# Interest Rate vs Inflation
+Economic forces, both intentional and unforeseen, are constantly impacting the US economy. In the US, the inflation rate is one metric used to determine the health of the economy
+
+![image](https://user-images.githubusercontent.com/119831680/217730789-fde03986-50b5-4ba1-84ae-c55b4b279630.png)
+
+![image](https://user-images.githubusercontent.com/119831680/217729856-39dc72c1-241a-42e1-959f-bd72120f1788.png)
+
+The inflation rate in the US from 1954 - 2022 (shown above) has certianly flucuated with its peak in teh 1980s.
+
+![image](https://user-images.githubusercontent.com/119831680/217730294-12943a91-8b7c-4a66-9063-75216189205c.png)
+
+The above graph shows that the interest rate follows inflation. This make sense since the main tool the FED uses to slow inflation is raisingthe intrest rate
+
+
+
