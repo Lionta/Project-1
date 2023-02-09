@@ -44,15 +44,17 @@ The r-value is 0.710. The represents a strong correlation between inflation and 
  
  ![image](https://user-images.githubusercontent.com/119831680/217733063-a8ceb393-f6a6-48ae-9d71-a5986dfefb8d.png)
  
+ # The Global Impact of the US Federal Intrest Rate
+
+To see if the Federal Interest Rate had an impact on the economies of other countries, we chose three countries: one with an economy close in size to ours, one with an economy around the bottom of the list of the 50 biggest economies, and a developing country. The countries are China, Finland, and Sudan respectively, and were chosen because they all had complete data of their GDPs as early as the 1960s on FRED. Using the data pulled from the FRED API, we were able to assemble a DataFrame and create graphs that put the Federal Interest Rate against the GDPs of each country. After doing this, and plotting a linear regression, we found only moderate or weak negative correlations between the two. This generally proves a null hypothesis: the Federal Interest Rate does not have a strong impact on the economies of other countries.
+ 
  # Interest Rate vs Other Economic Factors
  
 ![image](https://user-images.githubusercontent.com/119831680/217733369-8a159e41-2438-4ab3-939f-ab33bd1f6f16.png)
  
 ![image](https://user-images.githubusercontent.com/119831680/217733551-68d3d67c-3395-493b-af97-123e04fb3e66.png)
 
-# The Global Impact of the US Federal Intrest Rate
 
-This is all you, Riley!
 
 ### Dependancies 
 
