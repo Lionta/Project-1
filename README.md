@@ -11,15 +11,9 @@ Our goal for this project is to analyze how interest rate hikes and drops impact
 
 For this analysis we used FRED to extract data. Data was from 1940s to 2022.  FRED is short for Federal Reserve Economic Data. It’s an online database consisting of hundreds of thousands of economic data time series from scores of national, international, public, and private sources database.
 
-This is a graph showing GDP growth from the 1940s to 2022. GDP is trending upward throughout the years.
-
-![interestrate](https://user-images.githubusercontent.com/119654958/217725378-18cff8ac-be5d-47df-8569-a55a73fbcf4f.png). ![mergeddf](https://user-images.githubusercontent.com/119654958/217726303-d9fefcf9-6e04-46d4-866a-bcfdce5efebe.png)
-
-This is a graph showing interest rates from the 1940s to  2023. Interest rates fluctuates throughout the years. It was the highest in the 1980s at around 19%.
-
 ![mergeddf](https://user-images.githubusercontent.com/119654958/217726303-d9fefcf9-6e04-46d4-866a-bcfdce5efebe.png)
 
-This graph is of the two data frames merged (interest rate and GDP). At first glance it seems as though there is no relationship between the two variables but as we look closer, we notice that between 1940s to 1990 GDP was growing at a slower rate when compared to 1990 to 2022. At the same time interest rates were grew significantly from 1940s to 1990s and then started decreasing. The average GDP annual growth rate from 1962 to 1981 was 1%. While the average GDP annual growth rate from 1982 to 2021 was 8%. 
+This graph is of the two data frames merged (interest rate and GDP) from 1940s to 2022. GDP is trending upward. Interest rates fluctuates throughout the years. It was the highest in the 1980s at around 19%. At first glance it seems as though there is no relationship between the two variables but as we look closer, we notice that between 1940s to 1990 GDP was growing at a slower rate when compared to 1990 to 2022. At the same time interest rates were grew significantly from 1940s to 1990s and then started decreasing. The average GDP annual growth rate from 1962 to 1981 was 1%. While the average GDP annual growth rate from 1982 to 2021 was 8%. 
 
 In contrast, the average interest rates from 1962 to 1981 was 6.59%. While the average interest rate from 1982 to 2021.  The data suggest that when the Feds started aggressively decreasing the interest rates the GDP grew at a higher rate.  
 
