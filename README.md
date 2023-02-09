@@ -10,4 +10,4 @@ The Fed was created to help the United States economy run smoothly by monitoring
 Our goal for this project is to analyze how interest rate hikes and drops impact the economy. 
 
 For this analysis we used FRED to extract data. Data was from 1940s to 2022.  FRED is short for Federal Reserve Economic Data. It’s an online database consisting of hundreds of thousands of economic data time series from scores of national, international, public, and private sources database. We performed an API call to extract the data. 
-![image](https://user-images.githubusercontent.com/119654958/217724602-fb754990-8d90-4ebb-bc88-88889a93fae2.png)
+
