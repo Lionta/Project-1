@@ -57,16 +57,27 @@ This is all you, Riley!
 ### Dependancies 
 
 import pandas as pd
+
 import numpy as np
+
 import requests
+
 import json
+
 import matplotlib.pyplot as plt
+
 from datetime import datetime
+
 from pprint import pprint
+
 from scipy.stats import linregress
+
 import scipy.stats as st
+
 import matplotlib.dates as mdates
+
 from config import fred_key
+
 
 ### Data Source
 
