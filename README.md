@@ -38,4 +38,20 @@ The above graph shows that the interest rate follows inflation. This make sense 
 
 The r-value is 0.710. The represents a strong correlation between inflation and interest rate. This strong correlation indicates that raising the interest rate by the fed is a working solution to combat rising inflation
 
+# Interest Rate vs Unemployment Rate
+
+ ![image](https://user-images.githubusercontent.com/119831680/217732920-9bcf2259-8227-43f1-b25b-fdc42f45cbcc.png)
  
+ ![image](https://user-images.githubusercontent.com/119831680/217733063-a8ceb393-f6a6-48ae-9d71-a5986dfefb8d.png)
+ 
+ # Intrest Rate vs Other Economic Factors
+ 
+![image](https://user-images.githubusercontent.com/119831680/217733369-8a159e41-2438-4ab3-939f-ab33bd1f6f16.png)
+ 
+![image](https://user-images.githubusercontent.com/119831680/217733551-68d3d67c-3395-493b-af97-123e04fb3e66.png)
+
+# The Global Impact of the US Federal Intrest Rate
+
+This is all you, Riley!
+
+### Dependancies 
