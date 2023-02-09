@@ -19,3 +19,4 @@ In contrast, the average interest rates from 1962 to 1981 was 6.59%. While the a
 
 To see how closely the two variables relate to one another we performed a linear regression. The correlation coefficient r is 0.5. This supports the conclusion that there is a weak to moderate linear relationship between GDP and interest rates. Higher interest rates can slow down the economy.
 
+DONE!!!!!
