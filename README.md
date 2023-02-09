@@ -11,7 +11,7 @@ Our goal for this project is to analyze how interest rate hikes and drops impact
 ## Methodology
 For this analysis we used FRED to extract data. Data was from 1940s to 2022.  FRED is short for Federal Reserve Economic Data. It’s an online database consisting of hundreds of thousands of economic data time series from scores of national, international, public, and private sources. 
 
-#Analysis
+# Analysis
 ## Intrest Rate vs GDP
 ![mergeddf](https://user-images.githubusercontent.com/119654958/217726303-d9fefcf9-6e04-46d4-866a-bcfdce5efebe.png)
 
