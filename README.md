@@ -1,4 +1,4 @@
-# The Impact of Intrest Rates on Recession, Inflation and the Global Economy
+# The Impact of Interest Rates on Recession, Inflation and the Global Economy
 ## The Most Interesting Team: Armann Andaya, Kenan White, Michelle Owino, Riley Unverferth and Justin Dean
 ______________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/119831680/217723305-0bce79b8-4c06-4c5f-9a0e-2298e6ecbbb3.png)
@@ -12,7 +12,7 @@ Our goal for this project is to analyze how interest rate hikes and drops impact
 For this analysis we used FRED to extract data. Data was from 1940s to 2022.  FRED is short for Federal Reserve Economic Data. It’s an online database consisting of hundreds of thousands of economic data time series from scores of national, international, public, and private sources. 
 
 # Analysis
-## Intrest Rate vs GDP
+## Interest Rate vs GDP
 ![mergeddf](https://user-images.githubusercontent.com/119654958/217726303-d9fefcf9-6e04-46d4-866a-bcfdce5efebe.png)
 
 This graph is of the two data frames merged (interest rate and GDP) from 1940s to 2022. GDP is trending upward. Interest rates fluctuates throughout the years. It was the highest in the 1980s at around 19%. At first glance it seems as though there is no relationship between the two variables but as we look closer, we notice that between 1940s to 1990 GDP was growing at a slower rate when compared to 1990 to 2022. At the same time interest rates grew significantly from 1940s to 1990s and then started decreasing. The average GDP annual growth rate from 1962 to 1981 was 1%. While the average GDP annual growth rate from 1982 to 2021 was 8%. 
@@ -44,7 +44,7 @@ The r-value is 0.710. The represents a strong correlation between inflation and 
  
  ![image](https://user-images.githubusercontent.com/119831680/217733063-a8ceb393-f6a6-48ae-9d71-a5986dfefb8d.png)
  
- # The Global Impact of the US Federal Intrest Rate
+ # The Global Impact of the US Federal Interest Rate
 
 To see if the Federal Interest Rate had an impact on the economies of other countries, we chose three countries: one with an economy close in size to ours, one with an economy around the bottom of the list of the 50 biggest economies, and a developing country. The countries are China, Finland, and Sudan respectively, and were chosen because they all had complete data of their GDPs as early as the 1960s on FRED. 
 
