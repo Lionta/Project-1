@@ -1,5 +1,5 @@
 # The Impact of Intrest Rates on Recession, Inflation and the Global Economy
-## The Most Interesting Team
+## The Most Interesting Team: Armann Andaya, Kenan White, Michelle Owino, Riley Unverferth and Justin Dean
 ______________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/119831680/217723305-0bce79b8-4c06-4c5f-9a0e-2298e6ecbbb3.png)
 
@@ -44,7 +44,7 @@ The r-value is 0.710. The represents a strong correlation between inflation and 
  
  ![image](https://user-images.githubusercontent.com/119831680/217733063-a8ceb393-f6a6-48ae-9d71-a5986dfefb8d.png)
  
- # Intrest Rate vs Other Economic Factors
+ # Interest Rate vs Other Economic Factors
  
 ![image](https://user-images.githubusercontent.com/119831680/217733369-8a159e41-2438-4ab3-939f-ab33bd1f6f16.png)
  
@@ -55,3 +55,19 @@ The r-value is 0.710. The represents a strong correlation between inflation and 
 This is all you, Riley!
 
 ### Dependancies 
+
+import pandas as pd
+import numpy as np
+import requests
+import json
+import matplotlib.pyplot as plt
+from datetime import datetime
+from pprint import pprint
+from scipy.stats import linregress
+import scipy.stats as st
+import matplotlib.dates as mdates
+from config import fred_key
+
+### Data Source
+
+"https://api.stlouisfed.org/fred/series/observations?"
