@@ -3,7 +3,7 @@
 ______________________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/119831680/217723305-0bce79b8-4c06-4c5f-9a0e-2298e6ecbbb3.png)
 
-## Backround
+## Background
 Recently, the Federal Reserve, the US central bank has been increasing the interest rates to stabilize the economy. Since March of 2022 the rate change (bps) has been increased 8 times. The Fed was created to help the United States economy run smoothly by monitoring several economic indicators, such as inflation, unemployment, consumer prices, and gross domestic product (GDP). The increasing rates are affecting all of us. Rate hikes generally mean higher credit card rates, higher interest on car and loans, and even mortgages. 
 
 Our goal for this project is to analyze how interest rate hikes and drops impact the economy. 
@@ -28,15 +28,15 @@ Economic forces, both intentional and unforeseen, are constantly impacting the U
 
 ![image](https://user-images.githubusercontent.com/119831680/217729856-39dc72c1-241a-42e1-959f-bd72120f1788.png)
 
-The inflation rate in the US from 1954 - 2022 (shown above) has certianly flucuated with its peak in the 1980s.
+The inflation rate in the US from 1954 - 2022 (shown above) has certianly fluctuated with its peak in the 1980s.
 
 ![image](https://user-images.githubusercontent.com/119831680/217730294-12943a91-8b7c-4a66-9063-75216189205c.png)
 
-The above graph shows that the interest rate follows inflation. This make sense since the main tool the FED uses to slow inflation is raisingthe intrest rate
+The above graph shows that the interest rate follows inflation. This make sense considering the main tool the FED uses to slow inflation is raising the interest rate.
 
 ![image](https://user-images.githubusercontent.com/119831680/217731389-b5ed7629-f754-47b0-8021-0a0471e741a0.png)
 
-The r-value is 0.710. The represents a strong correlation between inflation and interest rate. This strong correlation indicates that raising the interest rate by the fed is a working solution to combat rising inflation
+The r-value is 0.710. The represents a strong correlation between inflation and interest rate. This strong correlation indicates that raising the interest rate by the fed is a working solution to combat rising inflation.
 
 # Interest Rate vs Unemployment Rate
 
