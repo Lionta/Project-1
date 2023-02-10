@@ -82,13 +82,18 @@ After plotting a linear regression, we found only moderate or weak negative corr
 - import matplotlib.dates as mdates
 - from config import fred_key
 
-### Conclusions: 
+### Conclusion 
 
 The strong correlation between interest rates and inflation suggests  that raising the interest rate is a working solution to combat rising inflation.
+
 Interest rate and unemployment rates are related, but rising interest rates don't necessitate low unemployment rates.
+
 There is a weak to moderate linear relationship between GDP and interest rates. Higher interest rates can slow down the economy. 
+
 Rises and falls of the Federal Interest Rate do not affect the Global Economy.
+
 There is no definitive economic indicator that can predict the next recession. 
+
 Retail sales, real personal income, and the industrial production index outperform interest rate in correlation to GDP. 
 
 
